@@ -42,10 +42,10 @@ cl.localpatronsaint1.supplication = "(τοῦ ἁγίου τοῦ ναοῦ)·"
 cl.localpatronsaint1.dismissal = "(τοῦ ἁγίου τοῦ ναοῦ)·"
 cl.localpatronsaint1.greatcompline = "(Ὁ ἅγιος τοῦ ναοῦ), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
 
-cl.Apolytikion1.title = "Τοῦ Ναοῦ."
+cl.Apolytikion1.title = "Ἀπολυτίκιον τοῦ Ναοῦ."
 cl.Apolytikion1.mode = 
 cl.Apolytikion1.melody = 
-cl.Apolytikion1.text = "(Τὸ Ἀπολυτίκιον τοῦ Ναοῦ.)"
+cl.Apolytikion1.text = 
 
 cl.Kontakion1.title = "Κοντάκιον τοῦ Ναοῦ."
 cl.Kontakion1.mode = 
@@ -54,7 +54,7 @@ cl.Kontakion1.text = "(Τὸ Κοντάκιον τοῦ Ναοῦ.)"
 
 cl.conVE.SticBoth.churchname.text = "(ὄνομα τοῦ ναοῦ),"
 cl.consecration.name = "(ὄνομα τοῦ ναοῦ),"
-cl.consecration.prayer1 = "(ὄνομα τοῦ Ναοῦ),"
+cl.consecration.prayer1 = ","
 cl.consecration.greatlitany.finalpetition.name = //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
 cl.localpatronsaint2.supplication = "(τοῦ παρεκκλησίου)·"
