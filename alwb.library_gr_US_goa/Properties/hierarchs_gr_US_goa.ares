@@ -96,5 +96,5 @@ bishop.timothy.chicago.pet19.text = "Ἔτι δεόμεθα ὑπὲρ τοῦ 
 bishop.timothy.commemoration.text = "Ἐν πρώτοις μνήσθητι, Κύριε, τοῦ Ἐπισκόπου ἡμῶν Τιμοθέου, ὂν χάρισαι ταῖς ἁγίαις σου Ἐκκλησίαις ἐν εἰρήνῃ, σῷον, ἔντιμον, ὑγιᾶ, μακροημερεύοντα καὶ ὀρθοτομοῦντα τὸν λόγον τῆς σῆς ἀληθείας."
 bishop.timothy.chicago.petOrdination01a.text = "Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν Ναθαναήλ, καὶ τοῦ Ἐπισκόπου ἡμῶν Τιμοθέου,"
 
-ordinand.name.acc.text = "name" //change for each ordination
-ordinand.name.gen.text = "name" //change for each ordination
+ordinand.name.acc.text = "Ἰάκωβον" //change for each ordination
+ordinand.name.gen.text = "Ἰακώβου" //change for each ordination
