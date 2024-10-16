@@ -1,9 +1,21 @@
 A_Resource_Whose_Name = names_gr_US_goa
 
-name.argyriosepanomites.relic1.name = "τοῦ ἁγίου ἐνδόξου Νεομάρτυρος Ἀργυρίου τοῦ Ἐπανομίτου,"
+name.sample.localsaint1.supplication = "(full name of saint, if not normally included in supplication, in genitive with lowercase article and comma)"
+name.sample.localsaint1.dismissal = "(full name of saint in genitive with lowercase article and comma)"
+name.sample.localchurch.title = "(short name of church or saint in genitive with uppercase article and period)"
+name.sample.conVE.SticBoth.churchname.text = "(short name of church or saint in genitive with lowercase article and comma)"
+name.sample.consecration.name = "(full name of church or saint in genitive with lowercase article and comma)"
+name.sample.consecration.prayer1 = "(full name of church or saint in genitive with lowercase article and comma)"
+name.sample.consecration.greatlitany.finalpetition.name = "(\"καὶ\" short name of saint in genitive with lowercase article and comma"
+name.sample.relic1or2.name = "(full name of saint in genitive with lowercase article and comma)"
+name.sample.relic1.name = "(like relic1or2, when group of saints is divided into three)"
+name.sample.relic2.name = "(like relic1or2, when group of saints is divided into three)"
+name.sample.relic3.name = "(\"καὶ\" full name of saint in genitive with lowercase article and comma)"
+
+name.argyriosepanomites.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Νεομάρτυρος Ἀργυρίου τοῦ Ἐπανομίτου,"
 name.argyriosepanomites.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Νεομάρτυρος Ἀργυρίου τοῦ Ἐπανομίτου,"
 
-name.barbara.relic1.name = "τῆς ἁγίας ἐνδόξου Μεγαλομάρτυρος Βαρβάρας,"
+name.barbara.relic1or2.name = "τῆς ἁγίας ἐνδόξου Μεγαλομάρτυρος Βαρβάρας,"
 name.barbara.relic3.name = "καὶ τῆς ἁγίας ἐνδόξου Μεγαλομάρτυρος Βαρβάρας,"
 
 name.catherine.localsaint1.supplication = "τῆς ἁγίας Μεγαλομάρτυρος καὶ πανσόφου Αἰκατερίνης,"
@@ -36,10 +48,10 @@ name.george.consecration.name = "τοῦ ἁγίου ἐνδόξου Μεγα�
 name.george.consecration.prayer1 = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 name.george.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Γεωργίου," //(and St. of parish)
 
-name.haralambos.relic1.name = "τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
+name.haralambos.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
 name.haralambos.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
 
-name.marina.relic1.name = "τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
+name.marina.relic1or2.name = "τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 name.marina.relic3.name = "καὶ τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 
 name.neomartyrsofsamothraki.relic1.name = "τῶν ἁγίων πέντε ἐνδόξων Νεομαρτύρων τῆς Σαμοθράκης,"
@@ -54,8 +66,8 @@ name.nicholas.consecration.name = "τοῦ ἐν ἁγίοις Πατρὸς �
 name.nicholas.consecration.prayer1 = "τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νικολάου, Ἀρχιεπισκόπου Μύρων τῆς Λυκίας, τοῦ θαυματουργοῦ,"
 name.nicholas.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Νικολάου," //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
-name.panteleimon.relic1.name = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος,"
+name.panteleimon.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος,"
 name.panteleimon.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος,"
 
-name.savasfathers.relic1.name = "τῶν ἁγίων Ἀββάδων τῶν ἐν τῇ Μονῇ τοῦ ἁγίου Σάββα ἀναιρεθέντων,"
+name.savasfathers.relic1or2.name = "τῶν ἁγίων Ἀββάδων τῶν ἐν τῇ Μονῇ τοῦ ἁγίου Σάββα ἀναιρεθέντων,"
 name.savasfathers.relic3.name = "καὶ τῶν ἁγίων Ἀββάδων τῶν ἐν τῇ Μονῇ τοῦ ἁγίου Σάββα ἀναιρεθέντων,"
