@@ -86,12 +86,12 @@ tyCHI.ordinand.priest.gen.text = ""
 
 tyDEN.localsaint1.supplication = names_gr_redirects_goarch.name.constantine.localsaint1.supplication
 tyDEN.localsaint1.dismissal = names_gr_redirects_goarch.name.constantine.localsaint1.dismissal
-tyDEN.meDA.dismissal = "οῦ ἐν ἁγίοις Πατρὸς ἡμῶν Γρηγορίου, Ἐπισκόπου Νεοκαισαρείας, τοῦ Θαυματουργοῦ,"
-tyDEN.peDA.dismissal = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·"
-tyDEN.dis00.resurrection = dismissals_gr_redirects_goarch.dis00
+tyDEN.meDA.dismissal = ""
+tyDEN.peDA.dismissal = ""
+tyDEN.dis00.resurrection = dismissals_gr_redirects_goarch.dis00.resurrection
 tyDEN.dis00.andresurrection = ""
-tyDEN.meDA.insert1 = "our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea,"
-tyDEN.meDA.insert2 = "whose memory we celebrate;"
+tyDEN.meDA.insert1 = "καὶ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Γρηγορίου, Ἐπισκόπου Νεοκαισαρείας, τοῦ Θαυματουργοῦ,"
+tyDEN.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·"
 tyDEN.localchurch.title = ""
 tyDEN.conVE.SticBoth.churchname.text = ""
 tyDEN.consecration.name = ""
