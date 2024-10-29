@@ -322,7 +322,7 @@ euMA.Exaposteilarion1.melody = he.a.m2_gr_redirects_goarch.heAU.GynaikesAkoutist
 euMA.Exaposteilarion1.incipit = "Τῷ παναγίῳ Πνεύματι…"
 euMA.Exaposteilarion1.text = "Τῷ παναγίῳ Πνεύματι, ἐγκαίνισον Φιλάνθρωπε, ἐν ταῖς καρδίαις τῶν πίστει, τὰ ἱερὰ Ἐγκαίνια, τοῦ Οἴκου σου τοῦ πανσέπτου, ἐπιτελοῦντες Κύριε, ἐν ᾧ τὰς προσευχὰς ἡμῶν, τῶν προσκυνούντων σε Σῶτερ, ὥσπερ θυσίαν προσδέχου."
 
-euMA.R001 = "Ὁ Ἀρχιερεὺς … λέγει τὰς εὐχὰς τοῦ Πατ. Καλλίστου."
+euMA.R001 = "Ὁ Ἀρχιερεὺς λέγει τὰς εὐχὰς τοῦ Πατ. Καλλίστου."
 
 euMA.Lauds1.mode = miscellanea_gr_redirects_goarch.misc.Mode4
 euMA.Lauds1.melody = he.a.m4_gr_redirects_goarch.heAU.EdokasSimeiosin.name

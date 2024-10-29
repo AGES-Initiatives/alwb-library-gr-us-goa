@@ -30,7 +30,7 @@ name.demetrios.localchurch.title = "Τοῦ Ἁγίου Δημητρίου."
 name.demetrios.conVE.SticBoth.churchname.text = "τοῦ Ἁγίου Δημητρίου,"
 name.demetrios.consecration.name = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Δημητρίου τοῦ Μυροβλύτου,"
 name.demetrios.consecration.prayer1 = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Δημητρίου τοῦ Μυροβλύτου,"
-name.demetrios.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Δημητρίου," //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+name.demetrios.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Δημητρίου,"
 
 name.dormition.localsaint1.supplication = ""
 name.dormition.localsaint1.dismissal = ""
@@ -38,7 +38,15 @@ name.dormition.localchurch.title = "Τῆς Κοιμήσεως."
 name.dormition.conVE.SticBoth.churchname.text = "τῆς Κοιμήσεως τῆς Θεοτόκου,"
 name.dormition.consecration.name = "τῆς Κοιμήσεως τῆς Θεοτόκου,"
 name.dormition.consecration.prayer1 = "τῆς Κοιμήσεως τῆς Θεοτόκου,"
-name.dormition.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+name.dormition.consecration.greatlitany.finalpetition.name = ""
+
+name.eustathius.localsaint1.supplication = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Εὐσταθίου,"
+name.eustathius.localsaint1.dismissal = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Εὐσταθίου,"
+name.eustathius.localchurch.title = "Τοῦ Ἁγίου Εὐσταθίου."
+name.eustathius.conVE.SticBoth.churchname.text = "τοῦ Ἁγίου Εὐσταθίου,"
+name.eustathius.consecration.name = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Εὐσταθίου,"
+name.eustathius.consecration.prayer1 = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Εὐσταθίου,"
+name.eustathius.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Εὐσταθίου,"
 
 name.george.localsaint1.supplication = ""
 name.george.localsaint1.dismissal = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
@@ -46,7 +54,7 @@ name.george.localchurch.title = "Τοῦ ἁγίου Γεωργίου."
 name.george.conVE.SticBoth.churchname.text = "τοῦ ἁγίου Γεωργίου,"
 name.george.consecration.name = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 name.george.consecration.prayer1 = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
-name.george.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Γεωργίου," //(and St. of parish)
+name.george.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Γεωργίου,"
 
 name.haralambos.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
 name.haralambos.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
@@ -64,7 +72,7 @@ name.nicholas.localchurch.title = "Τοῦ ἁγίου Νικολάου."
 name.nicholas.conVE.SticBoth.churchname.text = "τοῦ ἁγίου Νικολάου,"
 name.nicholas.consecration.name = "τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νικολάου, Ἀρχιεπισκόπου Μύρων τῆς Λυκίας, τοῦ θαυματουργοῦ,"
 name.nicholas.consecration.prayer1 = "τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νικολάου, Ἀρχιεπισκόπου Μύρων τῆς Λυκίας, τοῦ θαυματουργοῦ,"
-name.nicholas.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Νικολάου," //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+name.nicholas.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Νικολάου,"
 
 name.panteleimon.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος,"
 name.panteleimon.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος,"
