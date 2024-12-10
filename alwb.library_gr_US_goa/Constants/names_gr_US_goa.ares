@@ -20,6 +20,7 @@ name.barbara.relic3.name = "καὶ τῆς ἁγίας ἐνδόξου Μεγ
 
 name.catherine.localsaint1.supplication = "τῆς ἁγίας Μεγαλομάρτυρος καὶ πανσόφου Αἰκατερίνης,"
 name.catherine.localsaint1.dismissal = "τῆς ἁγίας Μεγαλομάρτυρος καὶ πανσόφου Αἰκατερίνης,"
+name.catherine.localchurch.title = "Τῆς Ἁγ. Αἰκατερίνης."
 
 name.constantine.localsaint1.supplication = "τῶν Ἁγίων ἐνδόξων, μεγάλων, θεοστέπτων καὶ Ἰσαποστόλων Βασιλέων, Κωνσταντίνου καὶ Ἑλένης,"
 name.constantine.localsaint1.dismissal = "τῶν Ἁγίων ἐνδόξων, μεγάλων, θεοστέπτων καὶ Ἰσαποστόλων Βασιλέων, Κωνσταντίνου καὶ Ἑλένης,"
@@ -79,3 +80,7 @@ name.panteleimon.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Μ
 
 name.savasfathers.relic1or2.name = "τῶν ἁγίων Ἀββάδων τῶν ἐν τῇ Μονῇ τοῦ ἁγίου Σάββα ἀναιρεθέντων,"
 name.savasfathers.relic3.name = "καὶ τῶν ἁγίων Ἀββάδων τῶν ἐν τῇ Μονῇ τοῦ ἁγίου Σάββα ἀναιρεθέντων,"
+
+name.spyridon.localsaint1.supplication = ""
+name.spyridon.localsaint1.dismissal = "τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Σπυρίδωνος, Ἐπισκόπου Τριμυθοῦντος, τοῦ Θαυματουργοῦ,"
+name.spyridon.localchurch.title = "Τοῦ ἁγίου Σπυρίδωνος."
