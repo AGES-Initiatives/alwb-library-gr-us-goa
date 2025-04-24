@@ -60,6 +60,11 @@ name.george.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγ
 name.haralambos.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
 name.haralambos.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
 
+name.holytrinity.localchurch.title = "Τῆς Πεντηκοστῆς."
+name.holytrinity.conVE.SticBoth.churchname.text = "τῆς Ἁγίας Τριάδος,"
+name.holytrinity.consecration.name = "τῆς Ἁγίας Τριάδος,"
+name.holytrinity.consecration.prayer1 = "τῆς Ἁγίας Τριάδος,"
+
 name.marina.relic1or2.name = "τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 name.marina.relic3.name = "καὶ τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 
