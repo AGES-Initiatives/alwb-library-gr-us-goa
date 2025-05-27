@@ -153,12 +153,12 @@ euCA.Ode3T.text = "Σὺ μόνη τοῖς ἐπὶ γῆς τῶν ὑπὲρ
 
 euMA.Ode3Kathisma1.mode = miscellanea_gr_redirects_goarch.misc.Mode4
 euMA.Ode3Kathisma1.melody = he.a.m4_gr_redirects_goarch.heAU.TachyProkatalave.name
-euMA.Ode3Kathisma1.incipit = ""
+euMA.Ode3Kathisma1.incipit = "…"
 euMA.Ode3Kathisma1.text = ""
 
 euMA.Ode3KathismaT.mode = miscellanea_gr_redirects_goarch.misc.Mode4
 euMA.Ode3KathismaT.melody = he.a.m4_gr_redirects_goarch.heAU.TachyProkatalave.name
-euMA.Ode3KathismaT.incipit = ""
+euMA.Ode3KathismaT.incipit = "…"
 euMA.Ode3KathismaT.text = ""
 
 euCA.Ode41.ode = miscellanea_gr_redirects_goarch.misc.Ode4
@@ -213,7 +213,7 @@ euCA.Ode5T.text = "Σὲ ὅπλον ἀῤῥαγὲς κατʼ ἐχθρῶν 
 
 euMA.Kontakion.mode = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.mode
 euMA.Kontakion.melody = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.melody
-euMA.Kontakion.incipit = ""
+euMA.Kontakion.incipit = "…"
 euMA.Kontakion.text = ""
 
 euMA.Oikos.text = ""
