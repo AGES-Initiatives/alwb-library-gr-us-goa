@@ -66,6 +66,14 @@ name.holytrinity.conVE.SticBoth.churchname.text = "τῆς Ἁγίας Τρι�
 name.holytrinity.consecration.name = "τῆς Ἁγίας Τριάδος,"
 name.holytrinity.consecration.prayer1 = "τῆς Ἁγίας Τριάδος,"
 
+name.iakovos.localsaint1.supplication = "τοῦ Ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου,"
+name.iakovos.localsaint1.dismissal = "τοῦ Ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου,"
+name.iakovos.localchurch.title = "Τοῦ ἁγίου Ἰακώβου."
+name.iakovos.conVE.SticBoth.churchname.text = "τοῦ ἁγίου Ἰακώβου,"
+name.iakovos.consecration.name = "τοῦ Ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου,"
+name.iakovos.consecration.prayer1 = "τοῦ Ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου,"
+name.iakovos.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Ἰακώβου,"
+
 name.marina.relic1or2.name = "τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 name.marina.relic3.name = "καὶ τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 
