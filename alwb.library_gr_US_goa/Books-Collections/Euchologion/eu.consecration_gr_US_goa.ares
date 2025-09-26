@@ -212,10 +212,10 @@ euCA.Ode5T.text = "Σὲ ὅπλον ἀῤῥαγὲς κατʼ ἐχθρῶν 
 
 euMA.Kontakion.mode = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.mode
 euMA.Kontakion.melody = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.melody
-euMA.Kontakion.incipit = "…"
-euMA.Kontakion.text = ""
+euMA.Kontakion.incipit = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.incipit
+euMA.Kontakion.text = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.text
 
-euMA.Oikos.text = ""
+euMA.Oikos.text = me.m09.d13_gr_redirects_goarch.meMA.Kontakion1.text
 
 euCA.Ode61.ode = miscellanea_gr_redirects_goarch.misc.Ode6
 euCA.Ode61.mode = miscellanea_gr_redirects_goarch.misc.Mode4

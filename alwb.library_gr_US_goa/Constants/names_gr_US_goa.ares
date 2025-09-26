@@ -26,6 +26,14 @@ name.constantine.localsaint1.supplication = "τῶν Ἁγίων ἐνδόξω
 name.constantine.localsaint1.dismissal = "τῶν Ἁγίων ἐνδόξων, μεγάλων, θεοστέπτων καὶ Ἰσαποστόλων Βασιλέων, Κωνσταντίνου καὶ Ἑλένης,"
 name.constantine.localchurch.title = "Τοῦ Ἁγ. Κωνσταντίνου."
 
+name.cosmasdamian.localsaint1.supplication = "τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ,"
+name.cosmasdamian.localsaint1.dismissal = "τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ,"
+name.cosmasdamian.localchurch.title = "Τῶν Ἁγίων Ἀναργύρων."
+name.cosmasdamian.conVE.SticBoth.churchname.text = "τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ,"
+name.cosmasdamian.consecration.name = "τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ,"
+name.cosmasdamian.consecration.prayer1 = "τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ,"
+name.cosmasdamian.consecration.greatlitany.finalpetition.name = "καὶ τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ,"
+
 name.demetrios.localsaint1.supplication = ""
 name.demetrios.localsaint1.dismissal = "τοῦ ἁγίου ἐνδόξου Μεγαλομάρτυρος Δημητρίου τοῦ Μυροβλύτου,"
 name.demetrios.localchurch.title = "Τοῦ Ἁγίου Δημητρίου."
