@@ -12,6 +12,12 @@ name.sample.relic1.name = "(like relic1or2, when group of saints is divided into
 name.sample.relic2.name = "(like relic1or2, when group of saints is divided into three)"
 name.sample.relic3.name = "(\"καὶ\" full name of saint in genitive with lowercase article and comma)"
 
+name.NA.localsaint1.supplication = ""
+name.NA.localsaint1.dismissal = ""
+name.NA.consecration.greatlitany.finalpetition.name = ""
+
+name.anna.localchurch.title = "Τῆς Ἁγ. Ἄννης."
+
 name.argyriosepanomites.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Νεομάρτυρος Ἀργυρίου τοῦ Ἐπανομίτου,"
 name.argyriosepanomites.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Νεομάρτυρος Ἀργυρίου τοῦ Ἐπανομίτου,"
 
@@ -81,6 +87,8 @@ name.iakovos.conVE.SticBoth.churchname.text = "τοῦ ἁγίου Ἰακώβ
 name.iakovos.consecration.name = "τοῦ Ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου,"
 name.iakovos.consecration.prayer1 = "τοῦ Ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου,"
 name.iakovos.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Ἰακώβου,"
+
+name.johnforerunner.localchurch.title = "Τοῦ Προδρόμου."
 
 name.marina.relic1or2.name = "τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
 name.marina.relic3.name = "καὶ τῆς ἁγίας Μεγαλομάρτυρος Μαρίνης,"
